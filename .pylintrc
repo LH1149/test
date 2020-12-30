@@ -1,0 +1,2 @@
+//vscode报错（pyqt5内无对应模块）类似的问题都可以在这个扩展包白名单里加上需要导入的包。
+extension-pkg-whitelist=PyQt5
